@@ -7,4 +7,6 @@
 - https://github.com/danielmiessler/fabric
 - https://github.com/huggingface/candle
 - https://github.com/santiagomed/orca
-- 
+
+## Vector DB
+- https://github.com/milvus-io/milvus
